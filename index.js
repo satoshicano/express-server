@@ -12,6 +12,6 @@ app.listen(app.get("port"), () =>
 app.get("/", (req, res) => res.send("ok"));
 
 app.post("/api", (req, res) => {
-  console.log(req);
+  console.log(req.body);
   res.send("ok");
 });
