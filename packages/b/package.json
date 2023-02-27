@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/satoshicano/express-server/issues"
   },
-  "homepage": "https://github.com/satoshicano/express-server#readme"
+  "homepage": "https://github.com/satoshicano/express-server#readme",
+  "dependencies": {
+    "koa": "^2.14.0"
+  }
 }
