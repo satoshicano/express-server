@@ -19,6 +19,6 @@
   "homepage": "https://github.com/satoshicano/express-server#readme",
   "dependencies": {
     "express": "^4.18.0",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.21"
   }
 }
